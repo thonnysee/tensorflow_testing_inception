@@ -52,17 +52,13 @@ python3 --version
 pip3 --version
 ```
 
-### Install Tensorflow v 1.14
+### Install Requirements
 
 ```cmd
-pip3 install --user --upgrade tensorflow==1.14  # install in $HOME
+pip3 install -r requirements.txt
 ```
 
-### Install telegram-python-bot
-
-```cmd
-pip3 install python-telegram-bot --upgrade
-```
+#### More info in tenserflow installs: [Tenserflow PIP](https://www.tensorflow.org/install/pip)
 
 ## Setup
 
@@ -100,8 +96,5 @@ Al files will be saved with the telegram user id and filename in your
 downloads directory.
 
 Author
-[Antonio José Carbajal Galindo: thonnysee]
+[thonnysee]
 [Github](https://github.com/thonnysee)
-
-
-#### More info in tenserflow installs: [Tenserflow PIP](https://www.tensorflow.org/install/pip)
