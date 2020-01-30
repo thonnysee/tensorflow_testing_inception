@@ -1,6 +1,6 @@
 # tensorflow_testing_inception
 Contains an example project of a classifier made of keyboards and pc mouses 
-images to test the Inception already trained model using Tenserflow 1.14. 
+images to test the Inception already trained model using Tensorflow 1.14. 
 
 ## Requirements
 
@@ -58,7 +58,7 @@ pip3 --version
 pip3 install -r requirements.txt
 ```
 
-#### More info in tenserflow installs: [Tenserflow PIP](https://www.tensorflow.org/install/pip)
+#### More info in tensorflow installs: [Tensorflow PIP](https://www.tensorflow.org/install/pip)
 
 ## Setup
 
