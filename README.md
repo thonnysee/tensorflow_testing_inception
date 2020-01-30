@@ -96,6 +96,6 @@ Al files will be saved with the telegram user id and filename in your
 downloads directory.
 
 ## Author
-[thonnysee]
+[Antonio Carbajal Galindo - thonnysee]
 
 [Github](https://github.com/thonnysee)
