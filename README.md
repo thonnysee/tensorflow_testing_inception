@@ -98,3 +98,8 @@ telegram bot and it will check if your image is a keyboard or a pc mouse.
 
 Al files will be saved with the telegram user id and filename in your
 downloads directory.
+
+
+[Antonio José Carbajal Galindo GitHub](https://github.com/thonnysee)
+
+More info in tenserflow installs: [Tenserflow PIP](https://www.tensorflow.org/install/pip)
