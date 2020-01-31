@@ -95,7 +95,3 @@ telegram bot and it will check if your image is a keyboard or a pc mouse.
 Al files will be saved with the telegram user id and filename in your
 downloads directory.
 
-## Author
-[Antonio Carbajal Galindo - thonnysee]
-
-[Github](https://github.com/thonnysee)
